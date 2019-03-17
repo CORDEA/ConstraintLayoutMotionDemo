@@ -1,4 +1,4 @@
-package jp.cordea.constraintlayout2demo
+package jp.cordea.constraintlayoutmotiondemo
 
 import android.content.Intent
 import android.os.Bundle
@@ -6,7 +6,7 @@ import android.view.Menu
 import android.view.MenuItem
 import androidx.appcompat.app.AppCompatActivity
 import androidx.databinding.DataBindingUtil
-import jp.cordea.constraintlayout2demo.databinding.ActivityMainBinding
+import jp.cordea.constraintlayoutmotiondemo.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 

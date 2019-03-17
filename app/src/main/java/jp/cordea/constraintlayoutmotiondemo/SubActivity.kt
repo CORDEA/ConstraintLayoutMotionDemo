@@ -1,4 +1,4 @@
-package jp.cordea.constraintlayout2demo
+package jp.cordea.constraintlayoutmotiondemo
 
 import android.os.Bundle
 import android.view.animation.BounceInterpolator
@@ -7,7 +7,7 @@ import androidx.constraintlayout.widget.ConstraintSet
 import androidx.databinding.DataBindingUtil
 import androidx.transition.ChangeBounds
 import androidx.transition.TransitionManager
-import jp.cordea.constraintlayout2demo.databinding.ActivitySubBinding
+import jp.cordea.constraintlayoutmotiondemo.databinding.ActivitySubBinding
 
 class SubActivity : AppCompatActivity() {
 

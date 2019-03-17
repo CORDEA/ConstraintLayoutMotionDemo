@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">ConstraintLayout2Demo</string>
+    <string name="app_name">ConstraintLayoutMotionDemo</string>
     <string name="action_settings">Settings</string>
 </resources>

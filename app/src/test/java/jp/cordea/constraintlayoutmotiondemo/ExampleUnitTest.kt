@@ -1,4 +1,4 @@
-package jp.cordea.constraintlayout2demo
+package jp.cordea.constraintlayoutmotiondemo
 
 import org.junit.Test
 
